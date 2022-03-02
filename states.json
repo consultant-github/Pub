@@ -1,4 +1,5 @@
-    "[{"state":"Alabama", "capital":"Montgomery"},
+"[
+    {"state":"Alabama", "capital":"Montgomery"},
     {"state":"Alaska","capital":"Juneau"},
     {"state":"Arizona","capital":"Phoenix"},
     {"state":"Arkansas","capital":"Little Rock"},
@@ -47,4 +48,5 @@
     {"state":"Washington","capital":"Olympia"},
     {"state":"West Virginia","capital":"Charleston"},
     {"state":"Wisconsin","capital":"Madison"},
-    {"state":"Wyoming","capital":"Cheyenne"}]" 
+    {"state":"Wyoming","capital":"Cheyenne"}
+]" 
